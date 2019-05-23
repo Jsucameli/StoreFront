@@ -1,4 +1,5 @@
-Bamazon
+StoreFront(Bamazon)
+
 Description
 This application implements a simple command line based storefront using the npm inquirer package and the MySQL database backend together with the npm mysql package. The application presents a interface.
 
@@ -10,11 +11,12 @@ The customer interface allows the user to view the current inventory of store it
 
 To run the customer interface please follow the steps below:
 
-git clone git@github.com:angrbrd/bamazon.git
-cd bamazon
+git clone https://github.com/Jsucameli/StoreFront.git
+
+cd StoreFront
 npm install
 node bamazonCustomer.js
 
-Bamazon Demo
+StoreFront Demo
 Here is a link to view the CLI:
 https://drive.google.com/file/d/1kk4fAIhKqxru_4MSnLOtL83c_bBhOF1d/view
